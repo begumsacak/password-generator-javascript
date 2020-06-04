@@ -15,7 +15,7 @@ The password generator page begins with a series of confirmations, and the users
 
 ### Live Website
 
-Please access the live website from this link: https://begumsacak.github.io/password-generator-javascript/
+Please access the live URL from here: https://begumsacak.github.io/password-generator-javascript/
 
 ## Authors
 
